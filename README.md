@@ -16,9 +16,9 @@ Then add **hubot-resumator** to your `external-scripts.json`:
 ["hubot-resumator"]
 ```
 
-## Sample Interaction
+## Commands
 
 ```
-user1>> hubot hello
-hubot>> hello!
+hubot job list - Returns the current list of jobs from The Resumator
+hubot job applicants - Returns the current list of applicants in the pipeline of the Resumator
 ```
