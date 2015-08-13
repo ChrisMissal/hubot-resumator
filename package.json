@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-resumator.git"
+    "url": "git://github.com/chrismissal/hubot-resumator.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-resumator/issues"
+    "url": "https://github.com/chrismissal/hubot-resumator/issues"
   },
 
   "dependencies": {
