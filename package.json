@@ -1,7 +1,7 @@
 {
   "name": "hubot-resumator",
   "description": "Get information from the Resumator API",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Chris Missal <chris.missal@gmail.com>",
   "license": "MIT",
 
